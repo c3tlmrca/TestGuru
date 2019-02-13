@@ -3,9 +3,9 @@
 one:
   body: MyString
   correct: false
-  id_question: 1
+  question_id: 1
 
 two:
   body: MyString
   correct: false
-  id_question: 1
+  question_id: 1
